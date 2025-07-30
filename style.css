@@ -21,8 +21,8 @@
 }
 
 body {
-    background-color: var(--bg-dark);
-    color: var(--text);
+    background-color: pink(--bg-dark);
+    color: pink(--text);
     min-height: 100vh;
     display: flex;
     justify-content: center;
